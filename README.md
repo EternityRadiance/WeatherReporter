@@ -1,4 +1,4 @@
-# Weather Forecast Application
+# Weather Forecast
 
 ## Описание проекта
 
