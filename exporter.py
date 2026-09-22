@@ -29,7 +29,7 @@ def header(records):
     last_date = records[-1].get("date", "")
 
     return [
-        "Weather Forecast",
+        "Weather Report",
         "",
         f"Location: {city}",
         f"Period: {first_date} - {last_date}",
