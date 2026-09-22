@@ -17,7 +17,7 @@
 1. **Клонирование репозитория:**
    ```bash
    git clone <repository-url>
-   cd Lab1
+   cd WeatherReporter-main
    ```
 
 2. **Создание виртуального окружения:**
