@@ -111,7 +111,7 @@ File: weather_report.md
 
 ### Markdown-файл (weather_report.md):
 ```markdown
-Weather Forecast
+Weather Report
 
 Location: Helsinki
 Period: 2026-09-22 - 2026-09-25
